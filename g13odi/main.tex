@@ -111,26 +111,20 @@ identified using match id. Attributes in both the files are as follows:
 \end{enumerate}
 \item Match Information:
 \begin{enumerate}
-    \item city
-    \item competition
-    \item date_0
-    \item date_1
-    \item date_2
-    \item date_3
-    \item date_4
-    \item eliminator
-    \item match_id
-    \item gender
-    \item index
-    \item match_number
-    \item match_referee
-    \item method
-    \item neutralvenue
-    \item outcome
-    \item player_of_match
-    \item reserve_umpire
-    \item season
-    \item series
+    \item city: City in which match was held
+    \item competition: Competition name
+    \item date: Date of match
+    \item match-id: Unique id of each match, that can uniquely identify a match between scorecard and match information file.
+    \item gender: Gender of the teams playing the match. (Either male or female)
+    \item match-number: Number of the match in the respective series or competition
+    \item match-referee: Match refree name
+    \item method: D/L if match ended by D/L rule
+    \item neutralvenue: true or false based upon the home venue of both the teams
+    \item outcome: (No result or tie), if none of the two team win the match
+    \item player-of-match: Name of the player of the match
+    \item reserve-umpire: Name of reserved umpire of the match
+    \item season: Year in which match was played
+    \item series: Series name of which the match was a part
     \item team 
     \item toss_decision
     \item toss_winner

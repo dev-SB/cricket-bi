@@ -1,0 +1,148 @@
+\documentclass[fleqn,10pt]{wlscirep}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\title{Title: G13ODI}
+\author{Shubham Bhandari shubhambhandari13@gmail.com}
+\affil[]{This is project report for the subject 'CS1305: Business Intelligence' at JK Lakshmipat University, Jaipur}
+
+\begin{abstract}
+Abstract Content
+\end{abstract}
+
+\begin{document}
+\flushbottom
+\maketitle
+\thispagestyle{empty}
+
+\noindent Please note: Abbreviations should be introduced at the first mention in the main text – no abbreviations lists. Suggested structure of main text (not enforced) is provided below.
+
+\section{Introduction}
+
+The Introduction section, of referenced text\cite{Figueredo:2009dg} expands on the background of the work (some overlap with the Abstract is acceptable). The introduction should not include subheadings.
+
+\section{Background}
+\subsection{The Game of Cricket}
+'Cricket' also known as 'Gentlemen's game' is a bat and ball team sport played between two teams of eleven players each. 
+The game is played on a ground at the centre of which is a 22-yard pitch with three wooden stumps at both the ends known as wickets.
+The wickets has also has two bails balanced on them. The game has fixed pitch size and variable ground size. 
+One of the team act as a batting side in what is called as a inning while the other team at the same time act as the bowline or fielding side.
+The batting side score runs by striking the ball bowled to them using bat, and the fielding side tries to catch and stop the ball. 
+Team scoring more runs in the specified balls wins the game.
+The possible scoring options in cricket include runs ranging from one to six and the possible dissmisal options include clean bowled, run out, caught, leg before wickets
+and stumped.
+The fielding side tries to restrict the batting side to minimum runs by taking wickets and exhausting the specified balls. 
+A cluster of six such balls is known as an over.
+The batting side always plays in pair, in which one of the batsman known as striker stands at the further side of the pitch to the bowler and other known as non striker
+stand near the bowler.When ten players have been dismissed, the innings ends and the teams swap roles. The game has three umpires, two on the ground and one in a room
+with the ability of giving decision with the help of cameras. There is also a match refree in a cricket match.
+
+The game has three popular formats the Twenety20, the One Day International and Test comprising of 20, 50 and unlimited overs respectiverly. Test matches are played for a
+duration of five days, where each team gets batting twice.
+The ball is a hard, solid spheroid made of compressed leather with a slightly raised sewn seam enclosing a cork core which is layered with tightly wound string. The bat is a
+piece of wooden crafted for hitting the ball. The size of bat has some restrictions, exact size depends on the comfort of the player.
+
+Cricket's origins are uncertain, but the earlies reference is in South-East England in the middle of 16th century. Cricket is a highly popular sport 
+in the British Colonies.
+
+\subsection{The Cricket Dataset}
+
+We are using 1,742 ODI matches dataset for this project. The dataset provides various parameters for each match divided in two files.
+This dataset comprises of parameters such as match date, venue umpire, winner, winning runs/wickets etc alongwith scorecard of each match.
+The scorecard provides each player's performance in every match. The players who have contributed either through bowling or batting have been included in the dataset.
+
+\subsection{Cricket Betting}
+Cricket betting refers to betting on the output of the game as well as betting on the output of some selected balls.
+
+Cricket betting is legal in some countries while illegal in others. Sometimes players are approched for fixing outcomes of certain balls 
+or even matches known as spot fixing which is criminal offence in the game of Cricket and can also lead to suspension of the player.
+\subsection{Statistical Models}
+\subsection{Machine Learning Models}
+\section{Past Work/Related work/Motivation}
+\section{Evaluation}
+\subsection{Methodology}
+\subsubsection{Objective of this work}
+The objective is to analyse the dismissal method in match by away team and accept the following null hypothesis or reject null hypothesis and suggest alternate hypothesis:
+
+Next Method of Dismissal (2-Way)- Away Team, Innings 1, Wicket 1
+H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+
+Next Method of Dismissal (6-Way)-Away Team, Innings 1, Wicket 1
+H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\subsubsection{Followed Methodology}
+
+\subsection{Descriptive Data Analysis}
+The dataset comprises of 1,742 ODI matches data.
+\subsection{Statistical Modelling}
+\subsection{Machine Learning Model}
+\section{Result and Discussion}
+\section{Future Work}
+\appendix
+\section{Information of Dataset}
+The dataset comprises of two files, one file comprises of each ODI match description and the other file has the scorecard of every ODI match. These matches can be uniquely
+identified using match id. Attributes in both the files are as follows:
+\begin{itemize}
+\item Scorecard:
+\begin{enumerate}
+\item match-id: Unique id of each match, that can uniquely identify a match between scorecard and match information file.
+\item innings: Innings number (Can be 0 or 1)
+\item name: Name of the player
+\item batting-position: Batting position of the player (0 if the player didn't bat)
+\item over-batsman: Over at which said batsman came out to play
+\item runs-scored: Runs scored by the player
+\item balls-played: Number of balls played by the player as a batsman.
+\item dots: Number of dot balls played by the player.
+\item ones: Number of balls when the player scored a single run.
+\item twos: Number of balls when the player scored two runs.
+\item threes: Number of balls when the player scored three runs.
+\item fours: Number of balls when the player scored four runs.
+\item sixes: Number of balls when the player scored six runs.
+\item wicket-method: Dismissal method of the player (0 if player remained not out or didn't came out to bat)
+\item balls-bowled: Number of balls that the player bowled as a bowler (0 if the player didn't bowled at all)
+\item maiden-overs: Number of overs in which the player didn't give a single run as a bowler.
+\item runs-given: Number of runs that the batsman scored on the said player's balls 
+\item wickets: Wickets taken by the player 
+\item extras: Extras given by the player as a bowler.
+\item fall-of-wicket-score: Score at which the player got out.
+\item fall-of-wicket-over: Over at which the player got out.
+\item fall-of-wicket-no: Wicket number at whcih the player got out.
+\item fall-of-wicket-bowler: Bowler who got the wicket (0 in case of run out).
+\end{enumerate}
+\item Match Information:
+\begin{enumerate}
+    \item city
+    \item competition
+    \item date_0
+    \item date_1
+    \item date_2
+    \item date_3
+    \item date_4
+    \item eliminator
+    \item match_id
+    \item gender
+    \item index
+    \item match_number
+    \item match_referee
+    \item method
+    \item neutralvenue
+    \item outcome
+    \item player_of_match
+    \item reserve_umpire
+    \item season
+    \item series
+    \item team 
+    \item toss_decision
+    \item toss_winner
+    \item tv_umpire
+    \item umpire_0
+    \item umpire_1
+    \item venue
+    \item winner
+    \item winner_innings
+    \item winner_runs
+    \item winner_wickets
+\end{enumerate}
+\end{itemize}
+\section{Source Code of Implementation}
+\end{document}

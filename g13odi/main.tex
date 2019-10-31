@@ -18,8 +18,6 @@ Abstract Content
 
 \section{Introduction}
 
-The Introduction section, of referenced text\cite{Figueredo:2009dg} expands on the background of the work (some overlap with the Abstract is acceptable). The introduction should not include subheadings.
-
 \section{Background}
 \subsection{The Game of Cricket}
 'Cricket' also known as 'Gentlemen's game' is a bat and ball team sport played between two teams of eleven players each. 
@@ -52,7 +50,6 @@ The scorecard provides each player's performance in every match. The players who
 
 \subsection{Cricket Betting}
 Cricket betting refers to betting on the output of the game as well as betting on the output of some selected balls.
-
 Cricket betting is legal in some countries while illegal in others. Sometimes players are approched for fixing outcomes of certain balls 
 or even matches known as spot fixing which is criminal offence in the game of Cricket and can also lead to suspension of the player.
 \subsection{Statistical Models}
@@ -62,14 +59,20 @@ or even matches known as spot fixing which is criminal offence in the game of Cr
 \subsection{Methodology}
 \subsubsection{Objective of this work}
 The objective is to analyse the dismissal method in match by away team and accept the following null hypothesis or reject null hypothesis and suggest alternate hypothesis:
+\begin{itemize}
+    
 
-Next Method of Dismissal (2-Way)- Away Team, Innings 1, Wicket 1
-H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-
-Next Method of Dismissal (6-Way)-Away Team, Innings 1, Wicket 1
-H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\item Next Method of Dismissal (2-Way)- Away Team, Innings 1, Wicket 1
+\begin{itemize}
+\item H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\item H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\end{itemize}
+\item Next Method of Dismissal (6-Way)-Away Team, Innings 1, Wicket 1
+\begin{itemize}
+\item H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\item H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
+\end{itemize}
+\end{itemize}
 \subsubsection{Followed Methodology}
 
 \subsection{Descriptive Data Analysis}
@@ -125,17 +128,17 @@ identified using match id. Attributes in both the files are as follows:
     \item reserve-umpire: Name of reserved umpire of the match
     \item season: Year in which match was played
     \item series: Series name of which the match was a part
-    \item team 
-    \item toss_decision
-    \item toss_winner
-    \item tv_umpire
-    \item umpire_0
-    \item umpire_1
-    \item venue
-    \item winner
-    \item winner_innings
-    \item winner_runs
-    \item winner_wickets
+    \item team-0: First team name
+    \item team-1: Second team name
+    \item toss-decision: (Fielding or batting) Toss decision by toss winner team
+    \item toss-winner: Toss winner team name
+    \item tv-umpire: TV umpire name
+    \item umpire-0: First umpire name
+    \item umpire-1: Second umpire name
+    \item venue: Ground name where match is being held
+    \item winner: Winner of the match
+    \item winner-runs: Winner score difference
+    \item winner-wickets: Winner wicket difference
 \end{enumerate}
 \end{itemize}
 \section{Source Code of Implementation}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.1)  1 NOV 2019 04:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.1)  1 NOV 2019 04:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,6 +693,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
+ (/home/sb/dev/Projects-bi/cricket/g13odi/main.out) (/home/sb/dev/Projects-bi/cricket/g13odi/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -772,475 +773,46 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 21.
-
-
-LaTeX Warning: Citation `Figueredo:2009dg' on page 1 undefined on input line 21.
-
-[1
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 60.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 60.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 63.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 63.
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 86.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 65.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 105.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 105.
-
-[2]
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:129: Missing $ inserted.
-<inserted text> 
-                $
-l.129     \item toss_
-                     decision
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:130: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130     \item
-                toss_winner
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:130: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130     \item t
-                 oss_winner
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:130: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130     \item t
-                 oss_winner
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:131: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.131     \item
-                tv_umpire
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:131: Missing $ inserted.
-<inserted text> 
-                $
-l.131     \item t
-                 v_umpire
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:131: Missing } inserted.
-<inserted text> 
-                }
-l.131     \item t
-                 v_umpire
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:131: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.131     \item t
-                 v_umpire
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:131: Missing $ inserted.
-<inserted text> 
-                $
-l.131     \item tv_
-                   umpire
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:132: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132     \item
-                umpire_0
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:132: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132     \item u
-                 mpire_0
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:132: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132     \item u
-                 mpire_0
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:133: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.133     \item
-                umpire_1
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:133: Missing $ inserted.
-<inserted text> 
-                $
-l.133     \item u
-                 mpire_1
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:133: Missing } inserted.
-<inserted text> 
-                }
-l.133     \item u
-                 mpire_1
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:133: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.133     \item u
-                 mpire_1
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:133: Missing $ inserted.
-<inserted text> 
-                $
-l.133     \item umpire_
-                       1
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:134: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134     \item
-                venue
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:134: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134     \item v
-                 enue
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:134: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134     \item v
-                 enue
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:135: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.135     \item
-                winner
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:135: Missing $ inserted.
-<inserted text> 
-                $
-l.135     \item w
-                 inner
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135     \item w
-                 inner
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:135: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.135     \item w
-                 inner
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:136: Missing $ inserted.
-<inserted text> 
-                $
-l.136     \item winner_
-                       innings
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:137: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137     \item
-                winner_runs
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:137: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137     \item w
-                 inner_runs
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:137: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137     \item w
-                 inner_runs
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:138: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.138     \item
-                winner_wickets
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:138: Missing $ inserted.
-<inserted text> 
-                $
-l.138     \item w
-                 inner_wickets
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:138: Missing } inserted.
-<inserted text> 
-                }
-l.138     \item w
-                 inner_wickets
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:138: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.138     \item w
-                 inner_wickets
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:138: Missing $ inserted.
-<inserted text> 
-                $
-l.138     \item winner_
-                       wickets
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:139: LaTeX Error: Command \end{enumerate} invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \end{enumerate}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:139: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \end{enumerate}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:139: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 \end{enumerate}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/sb/dev/Projects-bi/cricket/g13odi/main.tex:139: Missing $ inserted.
-<inserted text> 
-                $
-l.139 \end{enumerate}
-                     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Package lastpage Warning: Rerun to get the references right on input line 142.
-
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
+ [2] 
 AED: lastpage setting LastPage
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 142.
-
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (/home/sb/dev/Projects-bi/cricket/g13odi/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  AC8E148730F10EF7A3573C287CD82075;1214.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: AC8E148730F10EF7A3573C287CD82075;1214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 28725 strings out of 492167
- 556945 string characters out of 6127803
- 679912 words of memory out of 5000000
- 32700 multiletter control sequences out of 15000+600000
- 586588 words of font info for 135 fonts, out of 8000000 for 9000
+ 28738 strings out of 492167
+ 557287 string characters out of 6127803
+ 681041 words of memory out of 5000000
+ 32714 multiletter control sequences out of 15000+600000
+ 577064 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,71p,312b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/sb/dev/Projects-bi/cricket/g13odi/main.pdf (3 pages, 75262 bytes).
+ 52i,11n,71p,312b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on /home/sb/dev/Projects-bi/cricket/g13odi/main.pdf (3 pages, 63147 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 67 named destinations out of 1000 (max. 500000)
- 31233 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 30361 words of extra memory for PDF output out of 35830 (max. 10000000)
 

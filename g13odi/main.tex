@@ -51,7 +51,11 @@ This dataset comprises of parameters such as match date, venue umpire, winner, w
 The scorecard provides each player's performance in every match. The players who have contributed either through bowling or batting have been included in the dataset.
 
 \subsection{Cricket Betting}
-Cricket betting refers to betting on the output of the game as well as betting on the output of some selected balls.
+Cricket betting works in two ways, first one is to bet on the outcome of the match and the other one is betting on the outcome of six-overs.
+In the case of six-over betting, bets are placed on how many runs can be scored by a team. 
+In betting one needs to  analyse the situation and make an educated guess about the outcome and earn money from it. 
+In a cricket match, there are several factors that are considered before betting, these factors include weather,pitch report,team combination,strengths and weakness of players,spin and pace combination,past records,player form etc. 
+Betting is all mathematics. The ratios or odds offered depend on the situation of the match at a particular instance and the amount of money put on that team.
 \subsection{Statistical Models}
 \subsection{Machine Learning Models}
 \section{Past Work/Related work/Motivation}
@@ -60,31 +64,38 @@ improve the performance or increase the efficiency of humans in that field. Simi
 hypothesis or analyse performance of the players. These analysis can actively predict the rising star in the field of cricket or can predict the 
 future performance of a player. Such studies also act as an aid for team selection procedure by creating mathematical models for selection of players.
 These models can also help us in fantasy cricket.
-
 On similar lines we are trying to dismissal method in a match by away team which can again come handy in fantasy cricket and also team selection for a match.
+
+Referred research work:
+\begin{itemize}
+    \item A Statistical Analysis of Bowling Performance in Cricket.
+    \item Quantitative Assessment of Player Performance and Winner Prediction
+    in ODI Cricket
+    \item Decoding team and individual impact in scienceand invention
+    \item Data-driven insights into football match results
+    \item Increased Prediction Accuracy in the Game of Cricket using Machine Learning
+    \item Moneyballer: An Integer Optimization Framework for Fantasy Cricket League Selection and Substitution
+    \item Aggregation of Cricket Activity in Response to Resource Addition Increases Local Diversity
+    \item Prediction of the outcome of a Twenty-20 Cricket Match
+    \item Research Directions in Cricket
+    \item Machine Learning and Data Mining for Sports Analytics
+    \item Machine Learning for the Prediction of Professional Tennis Matches
+    \item Using Machine Learning to Predict the Outcome of English County twenty over Cricket Matches
+    \item Evolutionary Multi-Objective Optimization and Decision Making Approaches to Cricket Team Selection
+    \item A team recommendation system and outcome prediction for the game of cricket
+    \item What’s in a game? A systems approach to enhancing performance analysis in football
+\end{itemize}
 
 \section{Evaluation}
 \subsection{Methodology}
 \subsubsection{Objective of this work}
-The objective is to analyse the dismissal method in match by away team and accept the following null hypothesis or reject null hypothesis and suggest alternate hypothesis:
-\begin{itemize}
-\item Next Method of Dismissal (2-Way)- Away Team, Innings 1, Wicket 1
-\begin{itemize}
-\item H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-\item H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-\end{itemize}
-\item Next Method of Dismissal (6-Way)-Away Team, Innings 1, Wicket 1
-\begin{itemize}
-\item H(0): There is an equal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-\item H(A): There is an unequal probability of next dismissal method in 1 wicket of 1 innings of the away team.
-\end{itemize}
-\end{itemize}
+The objective is to read the provided dataset and analyse the dismissal methods of the players by both the teams.
 \subsubsection{Followed Methodology}
 \begin{itemize}
     \item Identified the objective and prepared scorecard and match information files accordingly.
     \item Descriptive Analysis of the thus generated data.
     \item Statistical Analysis of the data.
-    \item Either accept the null hypothesis or suggest alternate hypothesis.
+    \item Either accept the null hypothesis or suggest alternate hypothesis also predict the future outcome.
 \end{itemize}
 
 \subsection{Descriptive Data Analysis}
@@ -103,29 +114,29 @@ identified using match id. Attributes in both the files are as follows:
 \begin{itemize}
 \item Scorecard:
 \begin{enumerate}
-\item match-id: Unique id of each match, that can uniquely identify a match between scorecard and match information file.
-\item innings: Innings number (Can be 0 or 1)
-\item name: Name of the player
-\item batting-position: Batting position of the player (0 if the player didn't bat)
-\item over-batsman: Over at which said batsman came out to play
-\item runs-scored: Runs scored by the player
-\item balls-played: Number of balls played by the player as a batsman.
-\item dots: Number of dot balls played by the player.
-\item ones: Number of balls when the player scored a single run.
-\item twos: Number of balls when the player scored two runs.
-\item threes: Number of balls when the player scored three runs.
-\item fours: Number of balls when the player scored four runs.
-\item sixes: Number of balls when the player scored six runs.
-\item wicket-method: Dismissal method of the player (0 if player remained not out or didn't came out to bat)
-\item balls-bowled: Number of balls that the player bowled as a bowler (0 if the player didn't bowled at all)
-\item maiden-overs: Number of overs in which the player didn't give a single run as a bowler.
-\item runs-given: Number of runs that the batsman scored on the said player's balls 
-\item wickets: Wickets taken by the player 
-\item extras: Extras given by the player as a bowler.
-\item fall-of-wicket-score: Score at which the player got out.
-\item fall-of-wicket-over: Over at which the player got out.
-\item fall-of-wicket-no: Wicket number at whcih the player got out.
-\item fall-of-wicket-bowler: Bowler who got the wicket (0 in case of run out).
+    \item match-id: Unique id of each match, that can uniquely identify a match between scorecard and match information file.
+    \item innings: Innings number (Can be 0 or 1)
+    \item name: Name of the player
+    \item batting-position: Batting position of the player (0 if the player didn't bat)
+    \item over-batsman: Over at which said batsman came out to play
+    \item runs-scored: Runs scored by the player
+    \item balls-played: Number of balls played by the player as a batsman.
+    \item dots: Number of dot balls played by the player.
+    \item ones: Number of balls when the player scored a single run.
+    \item twos: Number of balls when the player scored two runs.
+    \item threes: Number of balls when the player scored three runs.
+    \item fours: Number of balls when the player scored four runs.
+    \item sixes: Number of balls when the player scored six runs.
+    \item wicket-method: Dismissal method of the player (0 if player remained not out or didn't come out to bat)
+    \item balls-bowled: Number of balls that the player bowled as a bowler (0 if the player didn't bowled at all)
+    \item maiden-overs: Number of overs in which the player didn't give a single run as a bowler.
+    \item runs-given: Number of runs that the batsman scored on the said player's balls 
+    \item wickets: Wickets taken by the player 
+    \item extras: Extras given by the player as a bowler.
+    \item fall-of-wicket-score: Score at which the player got out.
+    \item fall-of-wicket-over: Over at which the player got out.
+    \item fall-of-wicket-no: Wicket number at which the player got out.
+    \item fall-of-wicket-bowler: Bowler who got the wicket (0 in case of run out).
 \end{enumerate}
 \item Match Information:
 \begin{enumerate}

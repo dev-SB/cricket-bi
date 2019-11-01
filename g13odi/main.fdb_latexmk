@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1572565657 "/home/sb/dev/Projects-bi/cricket/g13odi/main.tex" "/home/sb/dev/Projects-bi/cricket/g13odi/main.pdf" "main" 1572565658
-  "/dev/null" 1572549103 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1572584145 "/home/sb/dev/Projects-bi/cricket/g13odi/main.tex" "/home/sb/dev/Projects-bi/cricket/g13odi/main.pdf" "main" 1572584146
+  "/dev/null" 1572583032 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1572550307 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/sb/dev/Projects-bi/cricket/g13odi/main.aux" 1572565658 3174 f26152e4c4043713f7ee8ac8226514e2 ""
-  "/home/sb/dev/Projects-bi/cricket/g13odi/main.tex" 1572565656 10097 eb9c5078dc7f7a2aa49fa6709d56c6cc ""
+  "/home/sb/dev/Projects-bi/cricket/g13odi/main.aux" 1572584146 3174 f26152e4c4043713f7ee8ac8226514e2 ""
+  "/home/sb/dev/Projects-bi/cricket/g13odi/main.tex" 1572584145 10042 b98935aeb5fed0e8e917eb444334fc29 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -131,14 +131,14 @@
   "jabbrv-ltwa-all.ldf" 1572551452 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1572551449 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1572551415 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1572565658 3174 f26152e4c4043713f7ee8ac8226514e2 ""
-  "main.out" 1572565658 1214 ac8e148730f10ef7a3573c287cd82075 ""
-  "main.tex" 1572565656 10097 eb9c5078dc7f7a2aa49fa6709d56c6cc ""
+  "main.aux" 1572584146 3174 f26152e4c4043713f7ee8ac8226514e2 ""
+  "main.out" 1572584146 1214 ac8e148730f10ef7a3573c287cd82075 ""
+  "main.tex" 1572584145 10042 b98935aeb5fed0e8e917eb444334fc29 ""
   "wlscirep.cls" 1572551319 5788 9df2749839c3a8af12c7b5623dab1715 ""
   (generated)
   "/home/sb/dev/Projects-bi/cricket/g13odi/main.log"
+  "main.log"
   "main.pdf"
+  "main.aux"
   "/home/sb/dev/Projects-bi/cricket/g13odi/main.pdf"
   "main.out"
-  "main.log"
-  "main.aux"

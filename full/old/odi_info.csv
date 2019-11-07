@@ -1,4 +1,4 @@
-city,competition,date-0,match-id,gender,match-number,match-referee,method,neutralvenue,outcome,player-of-match,reserve-umpire,season,series,team-0,team-1,toss-decision,toss-winner,tv-umpire,umpire-0,umpire-1,venue,winner,winner-runs,winner-wickets
+city,competition,date,match-id,gender,match-number,match-referee,method,neutralvenue,outcome,player-of-match,reserve-umpire,season,series,team-0,team-1,toss-decision,toss-winner,tv-umpire,umpire-0,umpire-1,venue,winner,winner-runs,winner-wickets
 Kuala Lumpur,DLF Cup,2006/09/16,256608,male,3.0,BC Broad,,True,no result,,Sarika Prasad,2006/07,,Australia,India,bat,Australia,Asad Rauf,MR Benson,AL Hill,Kinrara Academy Oval,,,
 Hamilton,ICC Cricket World Cup,2015/03/10,656465,male,34.0,BC Broad,,True,,S Dhawan,NJ Llong,2014/15,,India,Ireland,bat,Ireland,JD Cloete,HDPK Dharmasena,RA Kettleborough,Seddon Park,India,,8.0
 Bangalore,ICC Cricket World Cup,2011/02/27,433568,male,11.0,RS Mahanama,,,tie,AJ Strauss,Aleem Dar,2010/11,,India,England,bat,India,RJ Tucker,BF Bowden,M Erasmus,M Chinnaswamy Stadium,,,

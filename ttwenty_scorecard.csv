@@ -1,0 +1,42 @@
+match-id,team-name,innings,name,batting-position,over-batsman,runs-scored,balls-played,dots,ones,twos,threes,fours,sixes,wicket-method,balls-bowled,maiden-overs,runs-given,wickets,extras,fall-of-wicket-score,fall-of-wicket-overs,fall-of-wicket-no,fall-of-wicket-bowler
+682919,Ireland,1,WTS Porterfield,1,0.1,47,32,13,9,3,0,5,2,bowled,0,0,0,0,0,69,9.1,2,Ahsan Malik
+682919,Ireland,1,PR Stirling,2,0.1,7,9,6,1,1,0,1,0,caught,12,0,24,0,0,28,3.2,1,T van der Gugten
+682919,Ireland,1,EC Joyce,3,3.3,28,25,6,14,2,0,1,1,run out,0,0,0,0,0,88,12.3,3,Mudassar Bukhari
+682919,Ireland,1,AD Poynter,4,9.2,57,38,12,15,1,0,4,4,caught,0,0,0,0,0,189,19.6,4,Ahsan Malik
+682919,Ireland,1,KJ O'Brien,5,12.4,42,16,1,8,1,0,2,4,0,18,0,29,2,0,0,0.0,0,0
+682919,Netherlands,2,PW Borren,1,0.1,31,15,4,3,0,0,4,2,caught,12,0,18,0,1,91,5.6,1,KJ O'Brien
+682919,Netherlands,2,SJ Myburgh,2,0.1,63,23,7,3,1,0,4,7,caught,0,0,0,0,0,98,6.3,2,GH Dockrell
+682919,Netherlands,2,W Barresi,3,6.1,40,22,6,10,0,0,3,3,0,0,0,0,0,0,0,0.0,0,0
+682919,Netherlands,2,LV van Beek,4,6.4,1,3,2,1,0,0,0,0,caught,6,0,18,0,0,100,7.2,3,KJ O'Brien
+682919,Netherlands,2,TLW Cooper,5,7.3,45,15,3,3,1,0,1,6,caught,6,0,8,0,0,161,11.2,4,TJ Murtagh
+682919,Netherlands,2,BN Cooper,6,11.3,9,5,2,1,1,0,0,1,0,0,0,0,0,0,0,0.0,0,0
+682919,Netherlands,2,MR Swart,0,0.0,0,0,0,0,0,0,0,0,0,24,0,39,0,0,0,0.0,0,0
+682919,Netherlands,2,T van der Gugten,0,0.0,0,0,0,0,0,0,0,0,0,18,0,32,1,0,0,0.0,0,0
+682919,Netherlands,2,Ahsan Malik,0,0.0,0,0,0,0,0,0,0,0,0,24,0,26,2,0,0,0.0,0,0
+682919,Netherlands,2,Mudassar Bukhari,0,0.0,0,0,0,0,0,0,0,0,0,18,0,25,0,1,0,0.0,0,0
+682919,Netherlands,2,PM Seelaar,0,0.0,0,0,0,0,0,0,0,0,0,12,0,15,0,0,0,0.0,0,0
+682919,Ireland,1,AR McBrine,0,0.0,0,0,0,0,0,0,0,0,0,6,0,24,0,0,0,0.0,0,0
+682919,Ireland,1,TJ Murtagh,0,0.0,0,0,0,0,0,0,0,0,0,23,0,47,1,0,0,0.0,0,0
+682919,Ireland,1,AR Cusack,0,0.0,0,0,0,0,0,0,0,0,0,6,0,22,0,0,0,0.0,0,0
+682919,Ireland,1,GH Dockrell,0,0.0,0,0,0,0,0,0,0,0,0,18,0,43,1,0,0,0.0,0,0
+565820,New Zealand,1,RJ Nicol,1,0.1,0,4,3,0,0,0,0,0,bowled,0,0,0,0,0,2,0.6,1,Z Khan
+565820,New Zealand,1,MJ Guptill,2,0.1,1,5,4,1,0,0,0,0,bowled,0,0,0,0,0,2,1.3,2,IK Pathan
+565820,New Zealand,1,KS Williamson,4,1.4,28,26,9,12,2,0,3,0,caught,0,0,0,0,0,92,12.3,3,IK Pathan
+565820,New Zealand,1,BB McCullum,3,1.1,91,55,14,25,2,0,11,3,bowled,0,0,0,0,0,139,16.4,4,IK Pathan
+565820,New Zealand,1,LRPL Taylor,5,12.4,25,19,1,15,2,0,0,1,0,0,0,0,0,0,0,0.0,0,0
+565820,New Zealand,1,JEC Franklin,6,16.5,1,2,1,1,0,0,0,0,caught,24,0,25,2,1,142,17.2,5,L Balaji
+565820,New Zealand,1,JDP Oram,7,17.3,18,9,1,4,1,0,3,0,0,24,0,27,0,0,0,0.0,0,0
+565820,India,2,G Gambhir,1,0.1,3,6,3,3,0,0,0,0,caught and bowled,0,0,0,0,0,26,2.6,1,KD Mills
+565820,India,2,V Kohli,2,0.1,70,41,9,18,3,0,10,1,caught,18,0,27,0,0,120,13.2,3,JEC Franklin
+565820,India,2,SK Raina,3,3.1,27,22,8,9,2,0,2,1,caught,0,0,0,0,0,86,10.2,2,KD Mills
+565820,India,2,Yuvraj Singh,4,10.3,35,26,7,10,4,0,1,2,bowled,12,0,14,0,0,162,19.4,4,JEC Franklin
+565820,India,2,MS Dhoni,5,13.3,22,23,8,10,2,0,2,0,0,0,0,0,0,0,0,0.0,0,0
+565820,India,2,RG Sharma,6,19.5,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0,0
+565820,India,2,Z Khan,0,0.0,0,0,0,0,0,0,0,0,0,24,0,26,1,1,0,0.0,0,0
+565820,India,2,IK Pathan,0,0.0,0,0,0,0,0,0,0,0,0,24,0,31,3,0,0,0.0,0,0
+565820,India,2,L Balaji,0,0.0,0,0,0,0,0,0,0,0,0,24,0,33,1,0,0,0.0,0,0
+565820,India,2,R Ashwin,0,0.0,0,0,0,0,0,0,0,0,0,18,0,33,0,1,0,0.0,0,0
+565820,New Zealand,1,KD Mills,0,0.0,0,0,0,0,0,0,0,0,0,18,0,17,2,0,0,0.0,0,0
+565820,New Zealand,1,AF Milne,0,0.0,0,0,0,0,0,0,0,0,0,18,0,36,0,0,0,0.0,0,0
+565820,New Zealand,1,DL Vettori,0,0.0,0,0,0,0,0,0,0,0,0,24,0,36,0,1,0,0.0,0,0
+565820,New Zealand,1,RM Hira,0,0.0,0,0,0,0,0,0,0,0,0,12,0,20,0,0,0,0.0,0,0

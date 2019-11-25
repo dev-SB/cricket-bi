@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.14)  24 NOV 2019 23:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.11.14)  25 NOV 2019 05:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -630,21 +630,21 @@ File: pppdftex.def 2019/09/21 v0.5n Pdfpages driver for pdfTeX (AM)
 ) (/home/sb/dev/Projects-bi/cricket/g13odi/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 21.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -710,7 +710,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring ON on input line 14.
+Package hyperref Info: Link coloring ON on input line 21.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/refcount.sty
@@ -720,24 +720,24 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
  (/home/sb/dev/Projects-bi/cricket/g13odi/main.out) (/home/sb/dev/Projects-bi/cricket/g13odi/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 14.
-LaTeX Info: Redefining \microtypecontext on input line 14.
+(lastpage)             ! on input line 21.
+LaTeX Info: Redefining \microtypecontext on input line 21.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 14.
+LaTeX Info: Redefining \showhyphens on input line 21.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -750,7 +750,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 17.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -759,10 +759,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 17.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -771,8 +771,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 17.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -780,563 +780,744 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 17.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 17.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 17.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 17.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 24.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 72.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 93.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 72.
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 76.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 93.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 97.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
- [2] [3]
-<bi_cricket.pdf, id=142, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf>
-Package pdftex.def Info: bi_cricket.pdf  used on input line 152.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+ [2]
+<bats.png, id=97, 702.625pt x 451.6875pt>
+File: bats.png Graphic file (type png)
+<use bats.png>
+Package pdftex.def Info: bats.png  used on input line 113.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 114.
+<batsmen.png, id=99, 702.625pt x 451.6875pt>
+File: batsmen.png Graphic file (type png)
+<use batsmen.png>
+Package pdftex.def Info: batsmen.png  used on input line 119.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<wicvenue.png, id=100, 702.625pt x 451.6875pt>
+File: wicvenue.png Graphic file (type png)
+<use wicvenue.png>
+Package pdftex.def Info: wicvenue.png  used on input line 125.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<teamvenue.png, id=101, 702.625pt x 451.6875pt>
+File: teamvenue.png Graphic file (type png)
+<use teamvenue.png>
+Package pdftex.def Info: teamvenue.png  used on input line 131.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<winteams.png, id=102, 702.625pt x 451.6875pt>
+File: winteams.png Graphic file (type png)
+<use winteams.png>
+Package pdftex.def Info: winteams.png  used on input line 138.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<venueruns.png, id=103, 702.625pt x 451.6875pt>
+File: venueruns.png Graphic file (type png)
+<use venueruns.png>
+Package pdftex.def Info: venueruns.png  used on input line 144.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<wicbowlers.png, id=104, 702.625pt x 451.6875pt>
+File: wicbowlers.png Graphic file (type png)
+<use wicbowlers.png>
+Package pdftex.def Info: wicbowlers.png  used on input line 150.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<teamextras.png, id=105, 702.625pt x 451.6875pt>
+File: teamextras.png Graphic file (type png)
+<use teamextras.png>
+Package pdftex.def Info: teamextras.png  used on input line 156.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<teamruns.png, id=106, 702.625pt x 451.6875pt>
+File: teamruns.png Graphic file (type png)
+<use teamruns.png>
+Package pdftex.def Info: teamruns.png  used on input line 162.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+[3 </home/sb/dev/Projects-bi/cricket/g13odi/bats.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<teamwic.png, id=114, 702.625pt x 451.6875pt>
+File: teamwic.png Graphic file (type png)
+<use teamwic.png>
+Package pdftex.def Info: teamwic.png  used on input line 168.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<lbwbowled.png, id=115, 220.825pt x 274.02374pt>
+File: lbwbowled.png Graphic file (type png)
+<use lbwbowled.png>
+Package pdftex.def Info: lbwbowled.png  used on input line 186.
+(pdftex.def)             Requested size: 250.24199pt x 310.54219pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<lbwbowledhypo.png, id=116, 260.975pt x 91.34125pt>
+File: lbwbowledhypo.png Graphic file (type png)
+<use lbwbowledhypo.png>
+Package pdftex.def Info: lbwbowledhypo.png  used on input line 193.
+(pdftex.def)             Requested size: 250.24199pt x 87.58624pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<secondone.png, id=117, 207.77625pt x 72.27pt>
+File: secondone.png Graphic file (type png)
+<use secondone.png>
+Package pdftex.def Info: secondone.png  used on input line 206.
+(pdftex.def)             Requested size: 250.24199pt x 87.04443pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<secondsecond.png, id=118, 229.85875pt x 68.255pt>
+File: secondsecond.png Graphic file (type png)
+<use secondsecond.png>
+Package pdftex.def Info: secondsecond.png  used on input line 218.
+(pdftex.def)             Requested size: 250.24199pt x 74.3121pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 </home/sb/dev/Projects-bi/cricket/g13odi/batsmen.png>]
+<secondthird.png, id=129, 219.82124pt x 68.255pt>
+File: secondthird.png Graphic file (type png)
+<use secondthird.png>
+Package pdftex.def Info: secondthird.png  used on input line 230.
+(pdftex.def)             Requested size: 250.24199pt x 77.70317pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<secondfourth.png, id=130, 217.81375pt x 70.2625pt>
+File: secondfourth.png Graphic file (type png)
+<use secondfourth.png>
+Package pdftex.def Info: secondfourth.png  used on input line 243.
+(pdftex.def)             Requested size: 250.24199pt x 80.72296pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<second.png, id=131, 1231.60126pt x 283.0575pt>
+File: second.png Graphic file (type png)
+<use second.png>
+Package pdftex.def Info: second.png  used on input line 250.
+(pdftex.def)             Requested size: 500.484pt x 115.02205pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<third.png, id=132, 240.9pt x 274.02374pt>
+File: third.png Graphic file (type png)
+<use third.png>
+Package pdftex.def Info: third.png  used on input line 264.
+(pdftex.def)             Requested size: 250.24199pt x 284.66019pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<thirdone.png, id=133, 220.825pt x 68.255pt>
+File: thirdone.png Graphic file (type png)
+<use thirdone.png>
+Package pdftex.def Info: thirdone.png  used on input line 271.
+(pdftex.def)             Requested size: 250.24199pt x 77.35115pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 </home/sb/dev/Projects-bi/cricket/g13odi/wicvenue.png>]
+<correlation.png, id=144, 702.625pt x 451.6875pt>
+File: correlation.png Graphic file (type png)
+<use correlation.png>
+Package pdftex.def Info: correlation.png  used on input line 295.
+(pdftex.def)             Requested size: 500.484pt x 321.74797pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 </home/sb/dev/Projects-bi/cricket/g13odi/teamvenue.png>] [7 </home/sb/dev/Projects-bi/cricket/g13odi/winteams.png>] [8 </home/sb/dev/Projects-bi/cricket/g13odi/venueruns.png>] [9 </home/sb/dev/Projects-bi/cricket/g13odi/wicbowlers.png>]
+<bicricket.pdf, id=215, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf>
+Package pdftex.def Info: bicricket.pdf  used on input line 368.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf>
-Package pdftex.def Info: bi_cricket.pdf  used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf>
+Package pdftex.def Info: bicricket.pdf  used on input line 368.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<bi_cricket.pdf, id=145, page=1, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 1>
-Package pdftex.def Info: bi_cricket.pdf , page1 used on input line 152.
+<bicricket.pdf, id=218, page=1, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 1>
+Package pdftex.def Info: bicricket.pdf , page1 used on input line 368.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 1>
-Package pdftex.def Info: bi_cricket.pdf , page1 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 1>
+Package pdftex.def Info: bicricket.pdf , page1 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [4]
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 1>
-Package pdftex.def Info: bi_cricket.pdf , page1 used on input line 152.
+ [10]
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 1>
+Package pdftex.def Info: bicricket.pdf , page1 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 1>
-Package pdftex.def Info: bi_cricket.pdf , page1 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 1>
+Package pdftex.def Info: bicricket.pdf , page1 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 1>
-Package pdftex.def Info: bi_cricket.pdf , page1 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 1>
+Package pdftex.def Info: bicricket.pdf , page1 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [5 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=204, page=2, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 2>
-Package pdftex.def Info: bi_cricket.pdf , page2 used on input line 152.
+ [11 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=277, page=2, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 2>
+Package pdftex.def Info: bicricket.pdf , page2 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 2>
-Package pdftex.def Info: bi_cricket.pdf , page2 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 2>
+Package pdftex.def Info: bicricket.pdf , page2 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 2>
-Package pdftex.def Info: bi_cricket.pdf , page2 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 2>
+Package pdftex.def Info: bicricket.pdf , page2 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [6 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=209, page=3, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 3>
-Package pdftex.def Info: bi_cricket.pdf , page3 used on input line 152.
+ [12 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=282, page=3, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 3>
+Package pdftex.def Info: bicricket.pdf , page3 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 3>
-Package pdftex.def Info: bi_cricket.pdf , page3 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 3>
+Package pdftex.def Info: bicricket.pdf , page3 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 3>
-Package pdftex.def Info: bi_cricket.pdf , page3 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 3>
+Package pdftex.def Info: bicricket.pdf , page3 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [7 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=215, page=4, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 4>
-Package pdftex.def Info: bi_cricket.pdf , page4 used on input line 152.
+ [13 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=288, page=4, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 4>
+Package pdftex.def Info: bicricket.pdf , page4 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 4>
-Package pdftex.def Info: bi_cricket.pdf , page4 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 4>
+Package pdftex.def Info: bicricket.pdf , page4 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 4>
-Package pdftex.def Info: bi_cricket.pdf , page4 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 4>
+Package pdftex.def Info: bicricket.pdf , page4 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [8 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=220, page=5, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 5>
-Package pdftex.def Info: bi_cricket.pdf , page5 used on input line 152.
+ [14 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=293, page=5, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 5>
+Package pdftex.def Info: bicricket.pdf , page5 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 5>
-Package pdftex.def Info: bi_cricket.pdf , page5 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 5>
+Package pdftex.def Info: bicricket.pdf , page5 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 5>
-Package pdftex.def Info: bi_cricket.pdf , page5 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 5>
+Package pdftex.def Info: bicricket.pdf , page5 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [9 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=225, page=6, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 6>
-Package pdftex.def Info: bi_cricket.pdf , page6 used on input line 152.
+ [15 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=299, page=6, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 6>
+Package pdftex.def Info: bicricket.pdf , page6 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 6>
-Package pdftex.def Info: bi_cricket.pdf , page6 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 6>
+Package pdftex.def Info: bicricket.pdf , page6 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 6>
-Package pdftex.def Info: bi_cricket.pdf , page6 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 6>
+Package pdftex.def Info: bicricket.pdf , page6 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [10 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<bi_cricket.pdf, id=230, page=7, 614.295pt x 794.97pt>
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 7>
-Package pdftex.def Info: bi_cricket.pdf , page7 used on input line 152.
+ [16 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<bicricket.pdf, id=304, page=7, 614.295pt x 794.97pt>
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 7>
+Package pdftex.def Info: bicricket.pdf , page7 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 7>
-Package pdftex.def Info: bi_cricket.pdf , page7 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 7>
+Package pdftex.def Info: bicricket.pdf , page7 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: bi_cricket.pdf Graphic file (type pdf)
-<use bi_cricket.pdf, page 7>
-Package pdftex.def Info: bi_cricket.pdf , page7 used on input line 152.
+File: bicricket.pdf Graphic file (type pdf)
+<use bicricket.pdf, page 7>
+Package pdftex.def Info: bicricket.pdf , page7 used on input line 368.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [11 </home/sb/dev/Projects-bi/cricket/g13odi/bi_cricket.pdf>]
-<cricket-data-modification.pdf, id=235, 614.295pt x 794.97pt>
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf>
-Package pdftex.def Info: cricket-data-modification.pdf  used on input line 153.
+ [17 </home/sb/dev/Projects-bi/cricket/g13odi/bicricket.pdf>]
+<cricketdatamodification.pdf, id=309, 614.295pt x 794.97pt>
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf>
+Package pdftex.def Info: cricketdatamodification.pdf  used on input line 369.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf>
-Package pdftex.def Info: cricket-data-modification.pdf  used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf>
+Package pdftex.def Info: cricketdatamodification.pdf  used on input line 369.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<cricket-data-modification.pdf, id=238, page=1, 614.295pt x 794.97pt>
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 1>
-Package pdftex.def Info: cricket-data-modification.pdf , page1 used on input line 153.
+<cricketdatamodification.pdf, id=312, page=1, 614.295pt x 794.97pt>
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 1>
+Package pdftex.def Info: cricketdatamodification.pdf , page1 used on input line 369.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 1>
-Package pdftex.def Info: cricket-data-modification.pdf , page1 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 1>
+Package pdftex.def Info: cricketdatamodification.pdf , page1 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 1>
-Package pdftex.def Info: cricket-data-modification.pdf , page1 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 1>
+Package pdftex.def Info: cricketdatamodification.pdf , page1 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 1>
-Package pdftex.def Info: cricket-data-modification.pdf , page1 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 1>
+Package pdftex.def Info: cricketdatamodification.pdf , page1 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 1>
-Package pdftex.def Info: cricket-data-modification.pdf , page1 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 1>
+Package pdftex.def Info: cricketdatamodification.pdf , page1 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [12 </home/sb/dev/Projects-bi/cricket/g13odi/cricket-data-modification.pdf>]
-<cricket-data-modification.pdf, id=271, page=2, 614.295pt x 794.97pt>
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 2>
-Package pdftex.def Info: cricket-data-modification.pdf , page2 used on input line 153.
+ [18 </home/sb/dev/Projects-bi/cricket/g13odi/cricketdatamodification.pdf>]
+<cricketdatamodification.pdf, id=345, page=2, 614.295pt x 794.97pt>
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 2>
+Package pdftex.def Info: cricketdatamodification.pdf , page2 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 2>
-Package pdftex.def Info: cricket-data-modification.pdf , page2 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 2>
+Package pdftex.def Info: cricketdatamodification.pdf , page2 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 2>
-Package pdftex.def Info: cricket-data-modification.pdf , page2 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 2>
+Package pdftex.def Info: cricketdatamodification.pdf , page2 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [13 </home/sb/dev/Projects-bi/cricket/g13odi/cricket-data-modification.pdf>]
-<cricket-data-modification.pdf, id=284, page=3, 614.295pt x 794.97pt>
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 3>
-Package pdftex.def Info: cricket-data-modification.pdf , page3 used on input line 153.
+ [19 </home/sb/dev/Projects-bi/cricket/g13odi/cricketdatamodification.pdf>]
+<cricketdatamodification.pdf, id=357, page=3, 614.295pt x 794.97pt>
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 3>
+Package pdftex.def Info: cricketdatamodification.pdf , page3 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 3>
-Package pdftex.def Info: cricket-data-modification.pdf , page3 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 3>
+Package pdftex.def Info: cricketdatamodification.pdf , page3 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: cricket-data-modification.pdf Graphic file (type pdf)
-<use cricket-data-modification.pdf, page 3>
-Package pdftex.def Info: cricket-data-modification.pdf , page3 used on input line 153.
+File: cricketdatamodification.pdf Graphic file (type pdf)
+<use cricketdatamodification.pdf, page 3>
+Package pdftex.def Info: cricketdatamodification.pdf , page3 used on input line 369.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [14 </home/sb/dev/Projects-bi/cricket/g13odi/cricket-data-modification.pdf>]
-<vis-cricket.pdf, id=290, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf>
-Package pdftex.def Info: vis-cricket.pdf  used on input line 155.
+ [20 </home/sb/dev/Projects-bi/cricket/g13odi/cricketdatamodification.pdf>]
+<viscricket.pdf, id=363, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf>
+Package pdftex.def Info: viscricket.pdf  used on input line 371.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf>
-Package pdftex.def Info: vis-cricket.pdf  used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf>
+Package pdftex.def Info: viscricket.pdf  used on input line 371.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<vis-cricket.pdf, id=293, page=1, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 1>
-Package pdftex.def Info: vis-cricket.pdf , page1 used on input line 155.
+<viscricket.pdf, id=366, page=1, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 1>
+Package pdftex.def Info: viscricket.pdf , page1 used on input line 371.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 1>
-Package pdftex.def Info: vis-cricket.pdf , page1 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 1>
+Package pdftex.def Info: viscricket.pdf , page1 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [15]
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 1>
-Package pdftex.def Info: vis-cricket.pdf , page1 used on input line 155.
+ [21]
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 1>
+Package pdftex.def Info: viscricket.pdf , page1 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 1>
-Package pdftex.def Info: vis-cricket.pdf , page1 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 1>
+Package pdftex.def Info: viscricket.pdf , page1 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 1>
-Package pdftex.def Info: vis-cricket.pdf , page1 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 1>
+Package pdftex.def Info: viscricket.pdf , page1 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [16 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=323, page=2, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 2>
-Package pdftex.def Info: vis-cricket.pdf , page2 used on input line 155.
+ [22 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=396, page=2, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 2>
+Package pdftex.def Info: viscricket.pdf , page2 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 2>
-Package pdftex.def Info: vis-cricket.pdf , page2 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 2>
+Package pdftex.def Info: viscricket.pdf , page2 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 2>
-Package pdftex.def Info: vis-cricket.pdf , page2 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 2>
+Package pdftex.def Info: viscricket.pdf , page2 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [17 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=338, page=3, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 3>
-Package pdftex.def Info: vis-cricket.pdf , page3 used on input line 155.
+ [23 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=411, page=3, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 3>
+Package pdftex.def Info: viscricket.pdf , page3 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 3>
-Package pdftex.def Info: vis-cricket.pdf , page3 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 3>
+Package pdftex.def Info: viscricket.pdf , page3 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 3>
-Package pdftex.def Info: vis-cricket.pdf , page3 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 3>
+Package pdftex.def Info: viscricket.pdf , page3 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [18 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=343, page=4, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 4>
-Package pdftex.def Info: vis-cricket.pdf , page4 used on input line 155.
+ [24 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=416, page=4, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 4>
+Package pdftex.def Info: viscricket.pdf , page4 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 4>
-Package pdftex.def Info: vis-cricket.pdf , page4 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 4>
+Package pdftex.def Info: viscricket.pdf , page4 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 4>
-Package pdftex.def Info: vis-cricket.pdf , page4 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 4>
+Package pdftex.def Info: viscricket.pdf , page4 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [19 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=349, page=5, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 5>
-Package pdftex.def Info: vis-cricket.pdf , page5 used on input line 155.
+ [25 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=422, page=5, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 5>
+Package pdftex.def Info: viscricket.pdf , page5 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 5>
-Package pdftex.def Info: vis-cricket.pdf , page5 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 5>
+Package pdftex.def Info: viscricket.pdf , page5 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 5>
-Package pdftex.def Info: vis-cricket.pdf , page5 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 5>
+Package pdftex.def Info: viscricket.pdf , page5 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [20 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=354, page=6, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 6>
-Package pdftex.def Info: vis-cricket.pdf , page6 used on input line 155.
+ [26 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=427, page=6, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 6>
+Package pdftex.def Info: viscricket.pdf , page6 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 6>
-Package pdftex.def Info: vis-cricket.pdf , page6 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 6>
+Package pdftex.def Info: viscricket.pdf , page6 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 6>
-Package pdftex.def Info: vis-cricket.pdf , page6 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 6>
+Package pdftex.def Info: viscricket.pdf , page6 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [21 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=362, page=7, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 7>
-Package pdftex.def Info: vis-cricket.pdf , page7 used on input line 155.
+ [27 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=435, page=7, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 7>
+Package pdftex.def Info: viscricket.pdf , page7 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 7>
-Package pdftex.def Info: vis-cricket.pdf , page7 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 7>
+Package pdftex.def Info: viscricket.pdf , page7 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 7>
-Package pdftex.def Info: vis-cricket.pdf , page7 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 7>
+Package pdftex.def Info: viscricket.pdf , page7 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [22 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=367, page=8, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 8>
-Package pdftex.def Info: vis-cricket.pdf , page8 used on input line 155.
+ [28 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=440, page=8, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 8>
+Package pdftex.def Info: viscricket.pdf , page8 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 8>
-Package pdftex.def Info: vis-cricket.pdf , page8 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 8>
+Package pdftex.def Info: viscricket.pdf , page8 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 8>
-Package pdftex.def Info: vis-cricket.pdf , page8 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 8>
+Package pdftex.def Info: viscricket.pdf , page8 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [23 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=372, page=9, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 9>
-Package pdftex.def Info: vis-cricket.pdf , page9 used on input line 155.
+ [29 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=446, page=9, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 9>
+Package pdftex.def Info: viscricket.pdf , page9 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 9>
-Package pdftex.def Info: vis-cricket.pdf , page9 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 9>
+Package pdftex.def Info: viscricket.pdf , page9 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 9>
-Package pdftex.def Info: vis-cricket.pdf , page9 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 9>
+Package pdftex.def Info: viscricket.pdf , page9 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [24 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=377, page=10, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 10>
-Package pdftex.def Info: vis-cricket.pdf , page10 used on input line 155.
+ [30 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=451, page=10, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 10>
+Package pdftex.def Info: viscricket.pdf , page10 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 10>
-Package pdftex.def Info: vis-cricket.pdf , page10 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 10>
+Package pdftex.def Info: viscricket.pdf , page10 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 10>
-Package pdftex.def Info: vis-cricket.pdf , page10 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 10>
+Package pdftex.def Info: viscricket.pdf , page10 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [25 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=383, page=11, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 11>
-Package pdftex.def Info: vis-cricket.pdf , page11 used on input line 155.
+ [31 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=457, page=11, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 11>
+Package pdftex.def Info: viscricket.pdf , page11 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 11>
-Package pdftex.def Info: vis-cricket.pdf , page11 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 11>
+Package pdftex.def Info: viscricket.pdf , page11 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 11>
-Package pdftex.def Info: vis-cricket.pdf , page11 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 11>
+Package pdftex.def Info: viscricket.pdf , page11 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [26 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<vis-cricket.pdf, id=388, page=12, 614.295pt x 794.97pt>
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 12>
-Package pdftex.def Info: vis-cricket.pdf , page12 used on input line 155.
+ [32 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<viscricket.pdf, id=462, page=12, 614.295pt x 794.97pt>
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 12>
+Package pdftex.def Info: viscricket.pdf , page12 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 12>
-Package pdftex.def Info: vis-cricket.pdf , page12 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 12>
+Package pdftex.def Info: viscricket.pdf , page12 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: vis-cricket.pdf Graphic file (type pdf)
-<use vis-cricket.pdf, page 12>
-Package pdftex.def Info: vis-cricket.pdf , page12 used on input line 155.
+File: viscricket.pdf Graphic file (type pdf)
+<use viscricket.pdf, page 12>
+Package pdftex.def Info: viscricket.pdf , page12 used on input line 371.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [27 </home/sb/dev/Projects-bi/cricket/g13odi/vis-cricket.pdf>]
-<hypothesis-nb.pdf, id=394, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf>
-Package pdftex.def Info: hypothesis-nb.pdf  used on input line 157.
+ [33 </home/sb/dev/Projects-bi/cricket/g13odi/viscricket.pdf>]
+<hypothesisnb.pdf, id=468, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf>
+Package pdftex.def Info: hypothesisnb.pdf  used on input line 373.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf>
-Package pdftex.def Info: hypothesis-nb.pdf  used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf>
+Package pdftex.def Info: hypothesisnb.pdf  used on input line 373.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<hypothesis-nb.pdf, id=397, page=1, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 1>
-Package pdftex.def Info: hypothesis-nb.pdf , page1 used on input line 157.
+<hypothesisnb.pdf, id=471, page=1, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 1>
+Package pdftex.def Info: hypothesisnb.pdf , page1 used on input line 373.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 1>
-Package pdftex.def Info: hypothesis-nb.pdf , page1 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 1>
+Package pdftex.def Info: hypothesisnb.pdf , page1 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [28]
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 1>
-Package pdftex.def Info: hypothesis-nb.pdf , page1 used on input line 157.
+ [34]
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 1>
+Package pdftex.def Info: hypothesisnb.pdf , page1 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 1>
-Package pdftex.def Info: hypothesis-nb.pdf , page1 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 1>
+Package pdftex.def Info: hypothesisnb.pdf , page1 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 1>
-Package pdftex.def Info: hypothesis-nb.pdf , page1 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 1>
+Package pdftex.def Info: hypothesisnb.pdf , page1 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [29 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=438, page=2, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 2>
-Package pdftex.def Info: hypothesis-nb.pdf , page2 used on input line 157.
+ [35 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=511, page=2, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 2>
+Package pdftex.def Info: hypothesisnb.pdf , page2 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 2>
-Package pdftex.def Info: hypothesis-nb.pdf , page2 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 2>
+Package pdftex.def Info: hypothesisnb.pdf , page2 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 2>
-Package pdftex.def Info: hypothesis-nb.pdf , page2 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 2>
+Package pdftex.def Info: hypothesisnb.pdf , page2 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [30 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=443, page=3, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 3>
-Package pdftex.def Info: hypothesis-nb.pdf , page3 used on input line 157.
+ [36 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=516, page=3, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 3>
+Package pdftex.def Info: hypothesisnb.pdf , page3 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 3>
-Package pdftex.def Info: hypothesis-nb.pdf , page3 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 3>
+Package pdftex.def Info: hypothesisnb.pdf , page3 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 3>
-Package pdftex.def Info: hypothesis-nb.pdf , page3 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 3>
+Package pdftex.def Info: hypothesisnb.pdf , page3 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [31 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=449, page=4, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 4>
-Package pdftex.def Info: hypothesis-nb.pdf , page4 used on input line 157.
+ [37 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=522, page=4, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 4>
+Package pdftex.def Info: hypothesisnb.pdf , page4 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 4>
-Package pdftex.def Info: hypothesis-nb.pdf , page4 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 4>
+Package pdftex.def Info: hypothesisnb.pdf , page4 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 4>
-Package pdftex.def Info: hypothesis-nb.pdf , page4 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 4>
+Package pdftex.def Info: hypothesisnb.pdf , page4 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [32 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=454, page=5, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 5>
-Package pdftex.def Info: hypothesis-nb.pdf , page5 used on input line 157.
+ [38 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=527, page=5, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 5>
+Package pdftex.def Info: hypothesisnb.pdf , page5 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 5>
-Package pdftex.def Info: hypothesis-nb.pdf , page5 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 5>
+Package pdftex.def Info: hypothesisnb.pdf , page5 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 5>
-Package pdftex.def Info: hypothesis-nb.pdf , page5 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 5>
+Package pdftex.def Info: hypothesisnb.pdf , page5 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [33 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=459, page=6, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 6>
-Package pdftex.def Info: hypothesis-nb.pdf , page6 used on input line 157.
+ [39 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=532, page=6, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 6>
+Package pdftex.def Info: hypothesisnb.pdf , page6 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 6>
-Package pdftex.def Info: hypothesis-nb.pdf , page6 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 6>
+Package pdftex.def Info: hypothesisnb.pdf , page6 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 6>
-Package pdftex.def Info: hypothesis-nb.pdf , page6 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 6>
+Package pdftex.def Info: hypothesisnb.pdf , page6 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [34 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=467, page=7, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 7>
-Package pdftex.def Info: hypothesis-nb.pdf , page7 used on input line 157.
+ [40 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=537, page=7, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 7>
+Package pdftex.def Info: hypothesisnb.pdf , page7 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 7>
-Package pdftex.def Info: hypothesis-nb.pdf , page7 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 7>
+Package pdftex.def Info: hypothesisnb.pdf , page7 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 7>
-Package pdftex.def Info: hypothesis-nb.pdf , page7 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 7>
+Package pdftex.def Info: hypothesisnb.pdf , page7 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [35 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>]
-<hypothesis-nb.pdf, id=472, page=8, 614.295pt x 794.97pt>
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 8>
-Package pdftex.def Info: hypothesis-nb.pdf , page8 used on input line 157.
+ [41 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=545, page=8, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 8>
+Package pdftex.def Info: hypothesisnb.pdf , page8 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 8>
-Package pdftex.def Info: hypothesis-nb.pdf , page8 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 8>
+Package pdftex.def Info: hypothesisnb.pdf , page8 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: hypothesis-nb.pdf Graphic file (type pdf)
-<use hypothesis-nb.pdf, page 8>
-Package pdftex.def Info: hypothesis-nb.pdf , page8 used on input line 157.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 8>
+Package pdftex.def Info: hypothesisnb.pdf , page8 used on input line 373.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [36 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesis-nb.pdf>] 
+ [42 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>]
+<hypothesisnb.pdf, id=550, page=9, 614.295pt x 794.97pt>
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 9>
+Package pdftex.def Info: hypothesisnb.pdf , page9 used on input line 373.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 9>
+Package pdftex.def Info: hypothesisnb.pdf , page9 used on input line 373.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: hypothesisnb.pdf Graphic file (type pdf)
+<use hypothesisnb.pdf, page 9>
+Package pdftex.def Info: hypothesisnb.pdf , page9 used on input line 373.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [43 </home/sb/dev/Projects-bi/cricket/g13odi/hypothesisnb.pdf>] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
-(/home/sb/dev/Projects-bi/cricket/g13odi/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+[44 </home/sb/dev/Projects-bi/cricket/g13odi/teamextras.png>] [45 </home/sb/dev/Projects-bi/cricket/g13odi/teamruns.png>] [46 </home/sb/dev/Projects-bi/cricket/g13odi/teamwic.png>] [47 </home/sb/dev/Projects-bi/cricket/g13odi/lbwbowled.png> </home/sb/dev/Projects-bi/cricket/g13odi/lbwbowledhypo.png> </home/sb/dev/Projects-bi/cricket/g13odi/secondone.png>] [48 </home/sb/dev/Projects-bi/cricket/g13odi/secondsecond.png> </home/sb/dev/Projects-bi/cricket/g13odi/secondthird.png> </home/sb/dev/Projects-bi/cricket/g13odi/secondfourth.png> </home/sb/dev/Projects-bi/cricket/g13odi/second.png>] [49 </home/sb/dev/Projects-bi/cricket/g13odi/third.png> </home/sb/dev/Projects-bi/cricket/g13odi/thirdone.png>] [50 </home/sb/dev/Projects-bi/cricket/g13odi/correlation.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+ (/home/sb/dev/Projects-bi/cricket/g13odi/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: AC8E148730F10EF7A3573C287CD82075;1214.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
  ) 
 Here is how much of TeX's memory you used:
- 29618 strings out of 492164
- 574311 string characters out of 6127731
- 691987 words of memory out of 5000000
- 33483 multiletter control sequences out of 15000+600000
- 574521 words of font info for 126 fonts, out of 8000000 for 9000
+ 29845 strings out of 492164
+ 577261 string characters out of 6127731
+ 695881 words of memory out of 5000000
+ 33592 multiletter control sequences out of 15000+600000
+ 578658 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,18n,71p,306b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,18n,71p,370b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on /home/sb/dev/Projects-bi/cricket/g13odi/main.pdf (36 pages, 321517 bytes).
+Output written on /home/sb/dev/Projects-bi/cricket/g13odi/main.pdf (50 pages, 970689 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 104 named destinations out of 1000 (max. 500000)
- 30059 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 676 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 144 named destinations out of 1000 (max. 500000)
+ 30676 words of extra memory for PDF output out of 35830 (max. 10000000)
 

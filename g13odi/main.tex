@@ -8,18 +8,25 @@
 \affil[]{This is project report for the subject 'CS1305: Business Intelligence' at JK Lakshmipat University, Jaipur}
 
 \begin{abstract}
-Abstract Content
+Cricket is a facinating and a very popular game. There have been many analysis conducted on this game.
+This project is about analysing a sample of International One Day matches and also predict the runs scored by Virat Kohli. I have analysed certain hypothesis by
+preparing their statistical models in the project. The sample has a scorecard of roughly 1700 ODI matches. The crude data is ball-by-ball performance of player
+in these matches which is then subjected to data processing to obtain the scorecard of these matches. 
+The descriptive analysis of this data provide some insights in the ODI matches.
+This data is then subjectd to t-test statistical model which concludes that the mean wickets fallen in the first 35.3 overs of the first inning is equal to
+the wickets fallen in the last 25.3 overs. 
+In the end the runs scored by one of the best batsman in ODI have been predicted using linear regression.
 \end{abstract}
 
 \begin{document}
 \flushbottom
 \maketitle
 \thispagestyle{empty}
-
-\noindent Please note: Abbreviations should be introduced at the first mention in the main text – no abbreviations lists. Suggested structure of main text (not enforced) is provided below.
-
 \section{Introduction}
-
+Cricket is one of the most popular game in the world. This project analysis ODI matches dataset and propose some hypothesis.
+The hypothesis considered in the project is about the dismissals in the game of the cricket. This project also tries and predict
+the runs score by one batsman. The dataset lacks the data of all the players that played in a match which would have result to 
+better analysis.
 \section{Background}
 \subsection{The Game of Cricket}
 'Cricket' also known as 'Gentlemen's game' is a bat and ball team sport played between two teams of eleven players each. 
@@ -59,7 +66,21 @@ In betting one needs to  analyse the situation and make an educated guess about 
 In a cricket match, there are several factors that are considered before betting, these factors include weather,pitch report,team combination,strengths and weakness of players,spin and pace combination,past records,player form etc. 
 Betting is all mathematics. The ratios or odds offered depend on the situation of the match at a particular instance and the amount of money put on that team.
 \subsection{Statistical Models}
+Paired Sample T-Test: 
+The paired sample t-test, sometimes called the dependent sample t-test, is a statistical procedure used to 
+determine whether the mean difference between two sets of observations is zero. In a paired sample t-test, 
+each subject or entity is measured twice, resulting in pairs of observations. Common applications of the 
+paired sample t-test include case-control studies or repeated-measures designs. Suppose you are interested in 
+evaluating the effectiveness of a company training program. One approach you might consider would be to measure 
+the performance of a sample of employees before and after completing the program, and analyze the differences 
+using a paired sample t-test.
+
 \subsection{Machine Learning Models}
+In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). 
+The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable.
+In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. Such models are called linear models. Most commonly, the conditional mean of the response given 
+the values of the explanatory variables (or predictors) is assumed to be an affine function of those values; less commonly, the conditional median or some other quantile is used. Like all forms of regression analysis, linear regression focuses 
+on the conditional probability distribution of the response given the values of the predictors, rather than on the joint probability distribution of all of these variables, which is the domain of multivariate analysis.
 \section{Past Work/Related work/Motivation}
 With the onset of the era of data and better computing systems, data from practically any field can be used for analysis and 
 improve the performance or increase the efficiency of humans in that field. Similarly several studies have already been conducted to prove some popular 
@@ -70,7 +91,7 @@ On similar lines we are trying to dismissal method in a match by away team which
 \section{Evaluation}
 \subsection{Methodology}
 \subsubsection{Objective of this work}
-The objective is to read the provided dataset and analyse the dismissal methods of the players by both the teams.
+The objective is to read the provided dataset and analyse the dismissal methods and dismissals of the players.
 \subsubsection{Followed Methodology}
 \begin{itemize}
     \item Identified the objective and prepared scorecard and match information files accordingly.
@@ -78,16 +99,211 @@ The objective is to read the provided dataset and analyse the dismissal methods 
     \item Statistical Analysis of the data.
     \item Either accept the null hypothesis or suggest alternate hypothesis also predict the future outcome.
 \end{itemize}
-
 \subsection{Descriptive Data Analysis}
-The dataset comprises of 1,788 ODI matches data collected from the ODI match held between 16/09/2006-11/7/2019 around the globe. 
+The dataset comprises of 1,788 ODI matches data collected from the ODI match held between 03/01/2006-11/7/2019 around the globe. 
 The dataset describes player wise statistics of each match. This data is further accumulated to find out the 
 method of dismissal method of the player by away team. 
 The dataset also has each match's essential data including its venue, city, umpires, teams etc.
+The interactive visualizations cannot be shown in LaTex therefore, here is the link for all the Jupyter notebook: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.
+
+\begin{itemize}
+    \item According to the figure 1 KC Sangakara is the batsman who has scored most runs and played most balls in the period of Jan 2006-July 2019.
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{bats.png}
+        \caption{Batsmen performance analysis based on runs scored, balls played and innings played}
+      \end{figure}
+      \item According to the Figure 2 KC Sangakara was the highest run scorer in 2006 and Rohit Sharma in in 2019(till July)
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{batsmen.png}
+        \caption{Runs in calendar year by top 10 batsmen in ODI}
+      \end{figure}
+      \item According to Figure 3 all the grounds have nearly 7 wickets fallen in every match.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{wicvenue.png}
+        \caption{Venue wise wickets fallen.}
+      \end{figure}
+      \item According to Figure 4 many teams have perfect trackrecord in certain grounds and some teams didn't manage to win even a single match in some grounds.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{teamvenue.png}
+        \caption{Win ratio of best performing teams venue wise in ODI.}
+      \end{figure}
+      
+      \item According to Figure 5, Australia was the best team in ODI in 2006 and they have been replaced by India in 2019 (till July).
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{winteams.png}
+        \caption{Win ratio of best performing teams yearwise in ODI}
+      \end{figure}
+      \item According to the Figure 6, the median and mean runs scored within the period of 1/2006 and 7/2019 is highest in Sydney Cricket Ground.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{venueruns.png}
+        \caption{Venue wise runs scored.}
+      \end{figure}
+      \item According to Figure 7, Mashrafe Mortaza was the best bowler in 2006 and have been replace by Malinga (The figure only includes top 10 wicket takers in the period of 1/2006-7/2019)
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{wicbowlers.png}
+        \caption{Wickets in a calendar year by top 10 ODI bowlers.}
+      \end{figure}
+      \item According to Figure 8, West Indies gives most extras with the mean extras given equal to 8.18 among the prominent cricket playing nations.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{teamextras.png}
+        \caption{Teamwise extras given. }
+      \end{figure}
+      \item According to Figure 9,Australia is the higest runs scorer in every match with the mean of 235 and median 238, closely followed by team India.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{teamruns.png}
+        \caption{Teamwise runs scored.}
+      \end{figure}
+      \item According to Figure 10, Australia has taken the most number of average wickets per match.
+      \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\textwidth]{teamwic.png}
+        \caption{Teamwise wickets taken.}
+      \end{figure}
+      
+
+\end{itemize}
 \subsection{Statistical Modelling}
+Paried sample T-test model has been developed for the statistical analysis of the project. 
+\begin{enumerate}
+\item
+\begin{itemize}
+\item H(0):Mean value of batsman bowled is equal to mean value of batsman dismissed by lbw in ODI
+\item H(A):Mean value of batsman bowled is not equal to mean value batsman dismissed by lbw
+\end{itemize}
+
+The data for the first hypothesis lead to following statistics: Figure 1
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{lbwbowled.png}
+    \caption{Statistical analysis for data for first hypothesis.}
+  \end{figure}
+
+  The first null hypothesis is rejected as the p value is less than the significance value. Figure 2
+  \begin{figure}[h!]
+      \centering
+      \includegraphics[width=0.5\textwidth]{lbwbowledhypo.png}
+      \caption{First hypothesis result.}
+    \end{figure}
+
+
+\item
+\begin{itemize}
+    \item H(0):Wickets fallen in the first 70\% of the first innings is equal to the wickets fallen in the last 30\% of the first innings
+    \item H(A):Wickets fallen in the first 70\% of the first innings is not equal to the wickets fallen in the last 30\% of the first innings
+\end{itemize}
+The second null hypothesis is rejected as the p value is less than the significance value. Figure 3
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{secondone.png}
+    \caption{Second hypothesis result}
+  \end{figure}
+
+\item
+\begin{itemize}
+    \item H(0):Wickets fallen in the first 71\% of the first innings is equal to the wickets fallen in the last 29\% of the first innings
+    \item H(A):Wickets fallen in the first 71\% of the first innings is not equal to the wickets fallen in the last 29\% of the first innings
+\end{itemize}
+The third null hypothesis is accepted as the p value is greater than the significance value. Figure 4
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{secondsecond.png}
+    \caption{Third hypothesis result}
+  \end{figure}
+
+\item
+\begin{itemize}
+    \item H(0):Wickets fallen in the first 50\% of the first innings is equal to the wickets fallen in the last 50\% of the first innings
+    \item H(A):Wickets fallen in the first 50\% of the first innings is not equal to the wickets fallen in the last 50\% of the first innings
+\end{itemize}
+The fourth null hypothesis is rejected as the p value is less than the significance value. Figure 5
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{secondthird.png}
+    \caption{Fourth hypothesis result}
+  \end{figure}
+
+\item
+\begin{itemize}
+    \item H(0):Wickets fallen in the first 10 overs of the first innings is equal to the wickets fallen in the last 10 overs of the first innings
+    \item H(A):Wickets fallen in the first 10 overs of the first innings is not equal to the wickets fallen in the last 10 overs of the first innings
+\end{itemize}
+
+The fifth null hypothesis is rejected as the p value is less than the significance value. Figure 6
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{secondfourth.png}
+    \caption{Fifth hypothesis result}
+  \end{figure}
+
+  The data for the second, third, fourth and fifth hypothesis lead to following statistics: Figure 7
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{second.png}
+    \caption{Statistical analysis for data for second, third, fourth and fifth hypothesis.}
+  \end{figure}
+
+\item
+\begin{itemize}
+    \item H(0):There is an equal probability of wicket by the first category of dismissal and second category of dismissal
+    \item H(A):There is an equal probability of wicket by the first category of dismissal and second category of dismissal
+\end{itemize}
+ 
+The data for the sixth hypothesis lead to following statistics: Figure 8
+  
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{third.png}
+    \caption{Statistical analysis for data for sixth hypothesis.}
+  \end{figure}
+
+  The sixth null hypothesis is rejected as the p value is less than the significance value. Figure 9
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{thirdone.png}
+    \caption{Sixth hypothesis result}
+  \end{figure}
+
+\end{enumerate}
+The level of significance for the hypothesis have been set to 5\%.
+The above hypothesis have been tested using statistics.\newline
+For first hypothesis the batsman dismissed by lbw and bowled in the provided matches have been conted and 
+then the values in both the methods have been compared using paired t-test statistical model.\newline
+For second hypothesis first the 70\% overs have been calculated and then the number of dismissals have been calculated.
+These wickets have been then compared to the number of wickets that have fallen in the last 30\% overs of the match.\newline
+The same procedure have been followed for the third, fourth and the fifth hypothesis.\newline
+In the last hypothesis the dismissal method have been divided into the following two categories:
+    \begin{itemize}
+        \item first category =['run out','hit wicket','obstructing the field','retired out','stumped']
+        \item Second category= ['caught','bowled','lbw','caught and bowled']
+    \end{itemize}
+then the number of wickets for each category have been calculated and compared using paired t-test. 
 \subsection{Machine Learning Model}
+Machine learning model has been created for the data of Virat Kohli. The runs scored by him has been predicted.
+The correlation matrix for the scorecard is shown in Figure 10. According to which the runs scored by Virat Kohli
+majorly depends on the number of balls he faced and the runs he scored on these balls.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{correlation.png}
+    \caption{Correlation matrix of the scorecard for Virat Kohli}
+  \end{figure}
+The balls he played has been used to predict the runs he will score using Linear Regression.
 \section{Result and Discussion}
+After performing the statistical analysis we can suggest following:
+\begin{itemize}
+    \item The mean wickets fallen in the first 71\% overs (that translates to 35.3 overs) is equal to the mean wickets fallen in the rest of the first inning (i.e. 24.3 overs).
+\end{itemize}
 \section{Future Work}
+This cricket analysis can be further extended by analyzing data more closely and generating player wise insights. Also machine learing models can
+be created using this dataset. It can be further extended to find the attributes that contribute to the result obtained of the statistical analysis.
 \appendix
 \section{Information of Dataset}
 The dataset comprises of two files, one file comprises of each ODI match description and the other file has the scorecard of every ODI match. These matches can be uniquely
@@ -149,10 +365,10 @@ identified using match id. Attributes in both the files are as follows:
 \end{enumerate}
 \end{itemize}
 \section{Source Code of Implementation}
-\includepdf[pages=-]{bi_cricket.pdf}
-\includepdf[pages=-]{cricket-data-modification.pdf}
-The interactive visualizations cannot be shown in LaTex therfore, here is the link for all the Jupyter notebook: \href{https://github.com/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.
-\includepdf[pages=-]{vis-cricket.pdf}
-The interactive visualizations cannot be shown in LaTex therfore, here is the link for all the Jupyter notebook: \href{https://github.com/dev-SB/cricket-bi/blob/master/hypothesis.ipynb}{hypothesis.ipynb}.
-\includepdf[pages=-]{hypothesis-nb.pdf}
+\includepdf[pages=-]{bicricket.pdf}
+\includepdf[pages=-]{cricketdatamodification.pdf}
+The interactive visualizations cannot be shown in LaTex therefore, here is the link for all the Jupyter notebook: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.
+\includepdf[pages=-]{viscricket.pdf}
+The interactive visualizations cannot be shown in LaTex therefore, here is the link for all the Jupyter notebook: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/hypothesis.ipynb}{hypothesis.ipynb}.
+\includepdf[pages=-]{hypothesisnb.pdf}
 \end{document}

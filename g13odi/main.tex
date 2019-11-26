@@ -1,6 +1,7 @@
 \documentclass[fleqn,10pt]{wlscirep}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
+\usepackage{float}
 \usepackage[T1]{fontenc}
 \usepackage{pdfpages}
 \title{Title: G13ODI}
@@ -103,78 +104,78 @@ The objective is to read the provided dataset and analyse the dismissal methods 
 The dataset comprises of 1,788 ODI matches data collected from the ODI match held between 03/01/2006-11/7/2019 around the globe. 
 The dataset describes player wise statistics of each match. This data is further accumulated to find out the 
 method of dismissal method of the player by away team. 
-The dataset also has each match's essential data including its venue, city, umpires, teams etc.
-The interactive visualizations cannot be shown in LaTex therefore, here is the link for all the Jupyter notebook: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.
+The dataset also has each match's essential data including its venue, city, umpires, teams etc.\newline
+\paragraph{The interactive visualizations can be accessed here: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.}
 
 \begin{itemize}
     \item According to the figure~\ref{fig:one} KC Sangakara is the batsman who has scored most runs and played most balls in the period of Jan 2006-July 2019.
-    \begin{figure}[!htb]
+    \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{bats.png}
+        \includegraphics[width=0.7\textwidth]{bats.png}
         \caption{Batsmen performance analysis based on runs scored, balls played and innings played}
         \label{fig:one}
       \end{figure}
       \item According to the Figure ~\ref{fig:two} KC Sangakara was the highest run scorer in 2006 and Rohit Sharma in in 2019(till July)
-      \begin{figure}[!htb]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{batsmen.png}
+        \includegraphics[width=0.7\textwidth]{batsmen.png}
         \caption{Runs in calendar year by top 10 batsmen in ODI}
         \label{fig:two}
       \end{figure}
       \item According to Figure ~\ref{fig:three} all the grounds have nearly 7 wickets fallen in every match.
-      \begin{figure}[!htb]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{wicvenue.png}
+        \includegraphics[width=0.7\textwidth]{wicvenue.png}
         \caption{Venue wise wickets fallen.}
         \label{fig:three}
       \end{figure}
       \item According to Figure ~\ref{fig:four} many teams have perfect trackrecord in certain grounds and some teams didn't manage to win even a single match in some grounds.
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{teamvenue.png}
+        \includegraphics[width=0.7\textwidth]{teamvenue.png}
         \caption{Win ratio of best performing teams venue wise in ODI.}
         \label{fig:four}
       \end{figure}
       
       \item According to Figure ~\ref{fig:five}, Australia was the best team in ODI in 2006 and they have been replaced by India in 2019 (till July).
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{winteams.png}
+        \includegraphics[width=0.7\textwidth]{winteams.png}
         \caption{Win ratio of best performing teams yearwise in ODI}
         \label{fig:five}
       \end{figure}
       \item According to the Figure ~\ref{fig:six}, the median and mean runs scored within the period of 1/2006 and 7/2019 is highest in Sydney Cricket Ground.
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{venueruns.png}
+        \includegraphics[width=0.7\textwidth]{venueruns.png}
         \caption{Venue wise runs scored.}
         \label{fig:six}
       \end{figure}
       \item According to Figure ~\ref{fig:seven}, Mashrafe Mortaza was the best bowler in 2006 and have been replace by Malinga (The figure only includes top 10 wicket takers in the period of 1/2006-7/2019)
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{wicbowlers.png}
+        \includegraphics[width=0.7\textwidth]{wicbowlers.png}
         \caption{Wickets in a calendar year by top 10 ODI bowlers.}
         \label{fig:seven}
       \end{figure}
       \item According to Figure ~\ref{fig:eight}, West Indies gives most extras with the mean extras given equal to 8.18 among the prominent cricket playing nations.
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{teamextras.png}
+        \includegraphics[width=0.7\textwidth]{teamextras.png}
         \caption{Teamwise extras given. }
         \label{fig:eight}
       \end{figure}
       \item According to Figure ~\ref{fig:nine},Australia is the higest runs scorer in every match with the mean of 235 and median 238, closely followed by team India.
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{teamruns.png}
+        \includegraphics[width=0.7\textwidth]{teamruns.png}
         \caption{Teamwise runs scored.}
         \label{fig:nine}
       \end{figure}
       \item According to Figure ~\ref{fig:ten}, Australia has taken the most number of average wickets per match.
-      \begin{figure}[h]
+      \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\textwidth]{teamwic.png}
+        \includegraphics[width=0.7\textwidth]{teamwic.png}
         \caption{Teamwise wickets taken.}
         \label{fig:ten}
       \end{figure}
@@ -182,7 +183,8 @@ The interactive visualizations cannot be shown in LaTex therefore, here is the l
 
 \end{itemize}
 \subsection{Statistical Modelling}
-Paried sample T-test model has been developed for the statistical analysis of the project. 
+Paried sample T-test model has been developed for the statistical analysis of the project. \newline
+\paragraph{The interactive visualisations related to hypothesis can be accessed at this link: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/hypothesis.ipynb}{hypothesis.ipynb}.}
 \begin{enumerate}
 \item
 \begin{itemize}
@@ -191,7 +193,7 @@ Paried sample T-test model has been developed for the statistical analysis of th
 \end{itemize}
 
 The data for the first hypothesis lead to following statistics: Figure ~\ref{fig:eleven}
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{lbwbowled.png}
     \caption{Statistical analysis for data for first hypothesis.}
@@ -199,7 +201,7 @@ The data for the first hypothesis lead to following statistics: Figure ~\ref{fig
   \end{figure}
 
   The first null hypothesis is rejected as the p value is less than the significance value. Figure ~\ref{fig:twelve}
-  \begin{figure}[!htb]
+  \begin{figure}[H]
       \centering
       \includegraphics[width=0.25\textwidth]{lbwbowledhypo.png}
       \caption{First hypothesis result.}
@@ -213,7 +215,7 @@ The data for the first hypothesis lead to following statistics: Figure ~\ref{fig
     \item H(A):Wickets fallen in the first 70\% of the first innings is not equal to the wickets fallen in the last 30\% of the first innings
 \end{itemize}
 The second null hypothesis is rejected as the p value is less than the significance value. Figure ~\ref{fig:thirteen}
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{secondone.png}
     \caption{Second hypothesis result}
@@ -226,7 +228,7 @@ The second null hypothesis is rejected as the p value is less than the significa
     \item H(A):Wickets fallen in the first 71\% of the first innings is not equal to the wickets fallen in the last 29\% of the first innings
 \end{itemize}
 The third null hypothesis is accepted as the p value is greater than the significance value. Figure ~\ref{fig:fourteen}
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{secondsecond.png}
     \caption{Third hypothesis result}
@@ -239,7 +241,7 @@ The third null hypothesis is accepted as the p value is greater than the signifi
     \item H(A):Wickets fallen in the first 50\% of the first innings is not equal to the wickets fallen in the last 50\% of the first innings
 \end{itemize}
 The fourth null hypothesis is rejected as the p value is less than the significance value. Figure ~\ref{fig:fifteen}
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{secondthird.png}
     \caption{Fourth hypothesis result}
@@ -253,17 +255,20 @@ The fourth null hypothesis is rejected as the p value is less than the significa
 \end{itemize}
 
 The fifth null hypothesis is rejected as the p value is less than the significance value. Figure ~\ref{fig:sixteen}
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{secondfourth.png}
     \caption{Fifth hypothesis result}
     \label{fig:sixteen}
   \end{figure}
 
-  The data for the second, third, fourth and fifth hypothesis lead to following statistics: Figure ~\ref{fig:seventeen}
-\begin{figure}[!htb]
+  The data for the second, third, fourth and fifth hypothesis lead to following statistics:
+  The first column is for wickets fallen in First 70\% over, similarly second for Last  30\% overs, three is for 
+  first 71\% overs and fourth for last 29\% overs. Fifth for 50\% overs and sixth for next 50\% overs and seventy for first 10 overs with eighth for last 10 overs.
+  Figure ~\ref{fig:seventeen}
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{second.png}
+    \includegraphics[width=1\textwidth]{second.png}
     \caption{Statistical analysis for data for second, third, fourth and fifth hypothesis.}
     \label{fig:seventeen}
   \end{figure}
@@ -276,7 +281,7 @@ The fifth null hypothesis is rejected as the p value is less than the significan
  
 The data for the sixth hypothesis lead to following statistics: Figure ~\ref{fig:eighteen}
   
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{third.png}
     \caption{Statistical analysis for data for sixth hypothesis.}
@@ -284,7 +289,7 @@ The data for the sixth hypothesis lead to following statistics: Figure ~\ref{fig
   \end{figure}
 
   The sixth null hypothesis is rejected as the p value is less than the significance value. Figure ~\ref{fig:ninteen}
-  \begin{figure}[!htb]
+  \begin{figure}[H]
     \centering
     \includegraphics[width=0.25\textwidth]{thirdone.png}
     \caption{Sixth hypothesis result}
@@ -309,7 +314,7 @@ then the number of wickets for each category have been calculated and compared u
 Machine learning model has been created for the data of Virat Kohli. The runs scored by him has been predicted.
 The correlation matrix for the scorecard is shown in Figure ~\ref{fig:twenty}. According to which the runs scored by Virat Kohli
 majorly depends on the number of balls he faced and the runs he scored on these balls.
-\begin{figure}[!htb]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{correlation.png}
     \caption{Correlation matrix of the scorecard for Virat Kohli}
@@ -320,6 +325,14 @@ The balls he played has been used to predict the runs he will score using Linear
 After performing the statistical analysis we can suggest following:
 \begin{itemize}
     \item The mean wickets fallen in the first 71\% overs (that translates to 35.3 overs) is equal to the mean wickets fallen in the rest of the first inning (i.e. 24.3 overs).
+    \item In rest of the hypothesis the null hypothesis came out to be incorrect, which means that the following alternate hypothesis could be correct:
+        \begin{itemize}
+          \item Mean value of batsman bowled is not equal to mean value batsman dismissed by lbw
+          \item Wickets fallen in the first 70\% of the first innings is not equal to the wickets fallen in the last 30\% of the first innings
+          \item Wickets fallen in the first 50\% of the first innings is not equal to the wickets fallen in the last 50\% of the first innings
+          \item Wickets fallen in the first 10 overs of the first innings is not equal to the wickets fallen in the last 10 overs of the first innings
+          \item There is an equal probability of wicket by the first category of dismissal and second category of dismissal
+        \end{itemize}
 \end{itemize}
 \section{Future Work}
 This cricket analysis can be further extended by analyzing data more closely and generating player wise insights. Also machine learing models can
@@ -385,6 +398,7 @@ identified using match id. Attributes in both the files are as follows:
 \end{enumerate}
 \end{itemize}
 \section{Source Code of Implementation}
+Jupyter Notebooks available at next page:
 \includepdf[pages=-]{bicricket.pdf}
 \includepdf[pages=-]{cricketdatamodification.pdf}
 The interactive visualizations cannot be shown in LaTex therefore, here is the link for the Jupyter notebook: \href{https://nbviewer.jupyter.org/github/dev-SB/cricket-bi/blob/master/vis-cricket.ipynb}{vis-cricket.ipynb}.
